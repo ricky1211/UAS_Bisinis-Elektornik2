@@ -1,4 +1,4 @@
-# 🚀 Nama Proyek Anda Disini
+# 🚀 MCGOGO GUIDE E-BOOK SITE
 
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Web%20%2F%20Mobile-blue.svg)]()
