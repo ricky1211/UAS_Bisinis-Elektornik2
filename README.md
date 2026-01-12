@@ -34,7 +34,7 @@ Tuliskan penjelasan singkat mengenai proyek Anda di sini. Apa tujuan proyek ini?
 Untuk informasi lebih detail mengenai teknis dan alur proyek, silakan akses berkas di bawah ini:
 
 * **[📄 Laporan Proyek (PDF)](link-ke-file-laporan.pdf)**
-* **[🌐 Link Aplikasi / Demo](https://link-aplikasi-anda.com)**
+* **[🌐 Link Aplikasi / Demo](https://magicchestguide.vercel.app/)**
 
 ---
 
