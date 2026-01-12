@@ -8,7 +8,7 @@
 ## 👤 Profil Pengembang
 
 <p align="center">
-  <img src="URL_FOTO_PROFIL_ANDA" alt="Foto Profil" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://github.com/ricky1211/UAS_Data-Science-Ti.22.Ai.1-Universitas-Pelita-Bangsa/blob/main/foto-pengembang/WhatsApp%20Image%202026-01-05%20at%2007.24.48.jpeg" alt="Foto Profil" width="150" height="150" style="border-radius: 50%;">
 </p>
 
 | Data Diri | Detail |
@@ -33,15 +33,15 @@ Tuliskan penjelasan singkat mengenai proyek Anda di sini. Apa tujuan proyek ini?
 
 Untuk informasi lebih detail mengenai teknis dan alur proyek, silakan akses berkas di bawah ini:
 
-* **[📄 Laporan Proyek (PDF)](link-ke-file-laporan.pdf)**
+* **[📄 Laporan Proyek (PDF)]([link-ke-file-laporan.pdf](https://github.com/ricky1211/UAS_Bisinis-Elektornik2/blob/main/BisnisElektronik-UAS%20(1).pdf))**
 * **[🌐 Link Aplikasi / Demo](https://magicchestguide.vercel.app/)**
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-* **Bahasa:** [Misal: JavaScript, Python, PHP]
-* **Framework:** [Misal: React, Laravel, Flutter]
-* **Database:** [Misal: MySQL, Firebase, PostgreSQL]
+* **Bahasa:** [ JavaScript, Python, HTML]
+* **Framework:** [ React, Vite, Vercel, Midtrans]
+* **Database:** [Firebase]
 
 ---
 
