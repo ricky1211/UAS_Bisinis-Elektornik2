@@ -99,7 +99,7 @@ export default function MagicChessLanding() {
           {/* Product Image Mockup */}
           <div className="mb-12">
             <img 
-              src="logo.png" 
+              src="C:\Users\Rickyy\Documents\KULIAH\SEMESTER7\Bisnis_Elektronik(2)\New folder\UAS_Bisinis-Elektornik2\logo.png" 
               alt="Magic Chess Guide" 
               className="rounded-2xl shadow-2xl mx-auto border-4 border-yellow-400"
             />
@@ -244,7 +244,7 @@ export default function MagicChessLanding() {
                 disabled={isProcessing}
                 className="w-full bg-gradient-to-r from-yellow-400 to-orange-500 text-gray-900 font-bold text-xl py-4 rounded-xl hover:scale-105 transition-transform duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                {isProcessing ? 'Memproses...' : '🚀 BELI SEKARANG - Rp 97.000'}
+                {isProcessing ? 'Memproses...' : '🚀 BELI SEKARANG - Rp 10.000'}
               </button>
 
               <div className="mt-6 flex items-center justify-center gap-2 text-sm text-gray-400">
