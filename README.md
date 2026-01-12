@@ -23,9 +23,9 @@
 Tuliskan penjelasan singkat mengenai proyek Anda di sini. Apa tujuan proyek ini? Masalah apa yang ingin diselesaikan? 
 
 **Fitur Utama:**
-* ✨ Fitur Unggulan 1
-* ✨ Fitur Unggulan 2
-* ✨ Fitur Unggulan 3
+* ✨ MUDAH dan AMAN
+* ✨ WEB BUATAN SENDIRI
+* ✨ SETELAH BELI DIJAMIN JAGO
 
 ---
 
