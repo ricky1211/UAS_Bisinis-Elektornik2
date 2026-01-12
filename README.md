@@ -33,7 +33,7 @@ Tuliskan penjelasan singkat mengenai proyek Anda di sini. Apa tujuan proyek ini?
 
 Untuk informasi lebih detail mengenai teknis dan alur proyek, silakan akses berkas di bawah ini:
 
-* **[📄 Laporan Proyek (PDF)]([link-ke-file-laporan.pdf](https://github.com/ricky1211/UAS_Bisinis-Elektornik2/blob/main/BisnisElektronik-UAS%20(1).pdf))**
+* **[📄 Laporan Proyek (PDF)](https://github.com/ricky1211/UAS_Bisinis-Elektornik2/blob/main/BisnisElektronik-UAS%20(1).pdf)**
 * **[🌐 Link Aplikasi / Demo](https://magicchestguide.vercel.app/)**
 
 ---
