@@ -99,7 +99,7 @@ export default function MagicChessLanding() {
           {/* Product Image Mockup */}
           <div className="mb-12">
             <img 
-              src="https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&h=500&fit=crop" 
+              src="logo.png" 
               alt="Magic Chess Guide" 
               className="rounded-2xl shadow-2xl mx-auto border-4 border-yellow-400"
             />
