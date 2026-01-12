@@ -99,7 +99,7 @@ export default function MagicChessLanding() {
           {/* Product Image Mockup */}
           <div className="mb-12">
             <img 
-              src="C:\Users\Rickyy\Documents\KULIAH\SEMESTER7\Bisnis_Elektronik(2)\New folder\UAS_Bisinis-Elektornik2\logo.png" 
+              src="logo.png" 
               alt="Magic Chess Guide" 
               className="rounded-2xl shadow-2xl mx-auto border-4 border-yellow-400"
             />
@@ -207,8 +207,8 @@ export default function MagicChessLanding() {
               <div className="text-center mb-8">
                 <h2 className="text-4xl font-bold mb-4">Investasi Terbaik untuk Skill Kamu</h2>
                 <div className="flex items-center justify-center gap-4 mb-4">
-                  <span className="text-3xl text-gray-400 line-through">Rp 197.000</span>
-                  <span className="text-6xl font-bold text-yellow-400">Rp 97.000</span>
+                  <span className="text-3xl text-gray-400 line-through">Rp 100.000</span>
+                  <span className="text-6xl font-bold text-yellow-400">Rp 10.000</span>
                 </div>
                 <div className="bg-red-600 text-white px-4 py-2 rounded-full inline-block font-bold">
                   ⏰ Promo berakhir dalam 24 jam!
