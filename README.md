@@ -20,7 +20,6 @@
 ---
 
 ## 📝 Tentang Proyek
-Tuliskan penjelasan singkat mengenai proyek Anda di sini. Apa tujuan proyek ini? Masalah apa yang ingin diselesaikan? 
 
 **Fitur Utama:**
 * ✨ MUDAH dan AMAN
